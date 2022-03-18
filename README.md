@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 # Truong Nhat Anh
 ### Credence Truong
 
-- Hi there 👋, I'm a software engineering student in RMIT Vietnam.
+- Hi there 👋, I'm a software engineering student from RMIT Vietnam.
 - I love web development, especially frontend.
+- I'm looking for a part time job, or team up opportunities in hackathon events.
 - I often use HTML CSS JS for frontend and Java Springboot for backend.
 - I'm currently learning ReactJS, NodeJS.
+- By the end of this year (2022), I challenge myself to learn mobile development, both Android and iOS.
