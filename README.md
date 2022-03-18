@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Truong Nhat Anh
+### Credence Truong
+
+- Hi there 👋, I'm a software engineering student in RMIT Vietnam.
+- I love web development, especially frontend.
+- I often use HTML CSS JS for frontend and Java Springboot for backend.
+- I'm currently learning ReactJS, NodeJS.
