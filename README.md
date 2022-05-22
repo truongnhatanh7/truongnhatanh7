@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # Truong Nhat Anh
 ### Credence Truong
 
-# Latest project
-# Onyx Task Management System [https://google.com]
+## Latest project
+### Onyx Task Management System [https://github.com/truongnhatanh7/EEET2580_Onyx_Project]
 
 Hi there 👋, I'm a software engineering student from RMIT Vietnam.
 
