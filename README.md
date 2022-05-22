@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 # Truong Nhat Anh
 ### Credence Truong
 
-- Hi there 👋, I'm a software engineering student from RMIT Vietnam.
-- I'm currently working on a Task Management System, will be available on Github soon...
-- I love web development, especially frontend.
-- I'm looking for a part time job, or team up opportunities in hackathon events.
-- I often use HTML CSS JS for frontend and Java Springboot, PHP for backend.
-- I'm currently learning ReactJS, NodeJS.
+# Latest project
+# Onyx Task Management System [https://google.com]
+
+Hi there 👋, I'm a software engineering student from RMIT Vietnam.
+
+
