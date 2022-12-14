@@ -7,3 +7,4 @@ Studying for Bachelor of Engineering majoring in Software Engineering (Honours) 
 Working at SKDV as a Frontend Engineer + R&D.</br>
 Specializing in ReactJS, NextJS, HTML, CSS, JS, TS, Stitches, Astro</br>
 Other skills: NodeJS, Database, REST API, PHP, Python, Java, Spring Boot, AWS
+Portfolio Website [https://portfolio23-blue.vercel.app/]
