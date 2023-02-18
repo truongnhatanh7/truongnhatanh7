@@ -5,6 +5,6 @@
 I'm Nhat Anh (Credence).</br>
 Studying for Bachelor of Engineering majoring in Software Engineering (Honours) at RMIT VN.</br>
 Specializing in ReactJS, NextJS, NodeJS, Express, TS</br>
-Other skills: Ethereum Blockchain, Solidity, Spring Boot, iOS (SwiftUI), Android (Java), PHP, Python
+Other skills: Ethereum Blockchain, Solidity, Golang, Spring Boot, iOS (SwiftUI), Android (Java), PHP, Python
 </br>
 [Portfolio Website](https://truongnhatanhh.vercel.app/)
